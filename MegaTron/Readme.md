@@ -4,7 +4,7 @@
 
 -Dual Z
 
--Bear Extruder
+-[Bear Extruder](https://github.com/gregsaun/bear_extruder_and_x_axis)
 
 -[E3D V6 hotend with a 0.4mm nozzle](https://amzn.to/3jALMEe)
 
