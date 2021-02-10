@@ -14,7 +14,7 @@
 
 -[12mm Inductive Probe](https://s.click.aliexpress.com/e/_9GDZJ6)
 
--FYSETC Mini 12864 RGB Display
+-[FYSETC Mini 12864 RGB Display](https://s.click.aliexpress.com/e/_Ag3XdQ)
 
 [Klipper](https://github.com/KevinOConnor/klipper) is on a [Raspberry Pi Zero W](https://amzn.to/3rQvjyP) powered and connected to the [TFT headders on the SKR 1.3](https://youtu.be/AtW3GqkKUz8). 
 
