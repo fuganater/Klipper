@@ -1,5 +1,6 @@
 Big thanks to Nero for putting out this guide: https://www.youtube.com/watch?v=AtW3GqkKUz8&ab_channel=Nero3dp
 
+Here are the steps from his video on how to connect your Raspberry Pi via Serial to your MCU. 
 
 1. Swapping ports used by GPIO and Bluetooth
 sudo nano /boot/config.txt
